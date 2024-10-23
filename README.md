@@ -1,5 +1,7 @@
 # Hackintosh, MSI MAG B650M Mortar WiFi, AMD Ryzen 9 7950X, AMD Radeon RX 6800
 
+![Overview](https://github.com/user-attachments/assets/9addd1a2-f7ff-4f56-8cdd-2647270f5ad6)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.0.1)
